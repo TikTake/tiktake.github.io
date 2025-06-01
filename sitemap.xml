@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<url>
+  <loc>https://tiktake.net/</loc>
+  <lastmod>2025-05-04T04:21:56.465Z</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://tiktake.net/tiktok-mp3/</loc>
+  <lastmod>2025-05-06T18:16:58.671Z</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://tiktake.net/add-on/</loc>
+  <lastmod>2025-05-04T04:21:56.465Z</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://tiktake.net/contact/</loc>
+  <lastmod>2025-05-04T04:21:56.465Z</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://tiktake.net/terms/</loc>
+  <lastmod>2025-05-04T04:21:56.465Z</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://tiktake.net/privacy/</loc>
+  <lastmod>2025-05-04T04:21:56.465Z</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://tiktake.net/copyright-claims/</loc>
+  <lastmod>2025-05-04T04:21:56.465Z</lastmod>
+  <priority>0.80</priority>
+</url>
+</urlset>
